@@ -10,5 +10,11 @@
         "answers":["constant", "let", "cofarf"],
         "correctAnswerIndex":1,
         "feedback":"let is the correct one because of the farfa"
+    },
+    {
+        "question":"How do you declare a new function?",
+        "answers":["frf", "function", "func"],
+        "correctAnswerIndex":2,
+        "feedback":"func is the correct one because of the farfa"
     }
 ]
