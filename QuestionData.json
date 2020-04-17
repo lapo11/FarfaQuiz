@@ -1,0 +1,14 @@
+[
+    {
+        "question":"How do you declare a new variable?",
+        "answers":["var", "farf", "v"],
+        "correctAnswerIndex":0,
+        "feedback":"var is the correct one because of the farfa"
+    },
+    {
+        "question":"How do you declare a new constant?",
+        "answers":["constant", "let", "cofarf"],
+        "correctAnswerIndex":1,
+        "feedback":"let is the correct one because of the farfa"
+    }
+]
